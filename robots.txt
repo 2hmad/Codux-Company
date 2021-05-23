@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://codux.me/sitemap.xml
